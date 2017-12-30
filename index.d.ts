@@ -38,6 +38,8 @@ declare interface mqtt_connection
 
     domain: any;
 
+    stream : net.Socket;
+
     addListener(ev: any, fn: any): any;
 
     connack(opts?: any, cb?: any): void;
