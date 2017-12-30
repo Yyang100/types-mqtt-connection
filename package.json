@@ -1,5 +1,5 @@
 {
-  "name": "@types/mqtt-conneciton",
+  "name": "@types/mqtt-connection",
   "version": "0.0.1",
   "description": "",
   "types": "index.d.ts",
